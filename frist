@@ -75,19 +75,19 @@
                 subdistrict: "Kecamatan Sreseh",
                 city: "Kabupaten Sampang, Jawa Timur",
                 postalCode: "69273",
-                email: "mtsalmasudiyah01@gmail.com",
+                email: "mts.almasudiyah@gmail.com",
                 phone1: "+62 857-4554-8459",
                 phone2: "+62 852-5912-1118",
                 phone3: "085258848808",
-                slogan: "Agamis, Cerdas, & Berbudaya"
+                slogan: "Membentuk Generasi Islami, Cerdas, Berakhlakul Karimah & Berprestasi"
             },
             stats: {
                 students: 158,
-                teachers: 21,
+                teachers: 18,
                 classes: 6,
                 achievements: 24
             },
-            sambutan: `Assalamu'alaikum Warahmatullahi Wabarakatuh. Selamat datang di portal resmi MTs Almas'udiyah. Sebagai lembaga pendidikan Islam di bawah naungan Yayasan Pena Almas'udiyah yang berlokasi di Desa Taman Sreseh Sampang, kami berkomitmen penuh untuk menyelenggarakan pendidikan berkualitas tinggi yang memadukan keunggulan akademis dan kekuatan spiritualislami. Sejak berdiri tahun 1974, madrasah kami terus berbenah membimbing putra bangsa menjadi generasi yang unggul dalam IPTEK dan tangguh dalam IMTAQ. Terima kasih atas kepercayaan bapak/ibu orang tua siswa. Wassalamu'alaikum Wr. Wb.`,
+            sambutan: `Assalamu'alaikum Warahmatullahi Wabarakatuh. Selamat datang di portal resmi MTs Almas'udiyah. Sebagai lembaga pendidikan Islam di bawah naungan Yayasan Pena Almas'udiyah yang berlokasi di Desa Taman Sreseh Sampang, kami berkomitmen penuh untuk menyelenggarakan pendidikan berkualitas tinggi yang memadukan keunggulan akademis dan kekuatan spiritualislami. Sejak berdiri tahun 1974, madrasah kami terus berbenah membimbing putra-putri bangsa menjadi generasi yang unggul dalam IPTEK dan tangguh dalam IMTAQ. Terima kasih atas kepercayaan bapak/ibu orang tua siswa. Wassalamu'alaikum Wr. Wb.`,
             berita: [
                 {
                     id: 1,
